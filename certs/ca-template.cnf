@@ -8,7 +8,7 @@ database = replace_me-database.txt
 name_opt = SMX_default
 cert_opt = SMX_default
 default_crl_days = 9999
-default_md = md5
+default_md = sha256
 
 [ req ]
 default_bits           = 4096
